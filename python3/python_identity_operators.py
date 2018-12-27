@@ -26,6 +26,12 @@ y=4
 print (x is not y)	# False
 #---------------
 
+hi = "hello world"
+print(hi.isupper())  # False: string is not upper
+print(hi.islower())  # True: string is lower
+print(hi.upper().isupper())  # True: string convert to lower to upper and found upper string
+
+#---------------
 ######### other examples
 #1) if
 
