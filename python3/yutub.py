@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-
 ## Basic Translator
 
 def translate(phrase):

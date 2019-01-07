@@ -3,6 +3,7 @@ testMap=dict()
 for ele in A:
 	testMap[ele]=1
 
+####
 flag = 0
 i=1
 while flag==0:
