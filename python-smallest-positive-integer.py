@@ -1,4 +1,4 @@
-A = [-1,2,3]
+A = [-1,2,5]
 testMap=dict()
 for ele in A:
 	testMap[ele]=1
